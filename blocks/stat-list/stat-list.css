@@ -1,0 +1,31 @@
+.stat-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-around;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.stat-item {
+  flex: 1 1 250px;
+}
+
+.stat-value {
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: #0056b3;
+  line-height: 1;
+  display: block;
+}
+
+.stat-label {
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-top: 0.5rem;
+}
+
+.stat-description {
+  font-size: 0.9rem;
+  color: #666;
+}
