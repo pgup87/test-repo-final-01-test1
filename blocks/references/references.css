@@ -1,0 +1,14 @@
+.references {
+  font-size: 0.8rem;
+  border-top: 1px solid #ccc;
+  margin-top: 4rem;
+  padding-top: 2rem;
+}
+
+.references ol {
+  padding-left: 20px;
+}
+
+.references li {
+  margin-bottom: 0.5rem;
+}
